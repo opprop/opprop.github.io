@@ -2,8 +2,9 @@
 
 [Checker Framework
 Inference](https://github.com/opprop/checker-framework-inference) is a general
-type inference framework, built upon the [Checker
-Framework](https://checkerframework.org/).
+type inference framework, built upon the
+[Enforcing, Inferring, and Synthesizing Optional Properties (EISOP) Framework](https://eisop.github.io/) project,
+which aims to provide a unified framework for optional properties in Java.
 
 
 ## Precise Inference of Expressive Units of Measurement Types (OOPSLA 2020)
